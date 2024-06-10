@@ -1,0 +1,1 @@
+This is my first rust project. I tried to learn how to use crates, how to read documents, how to implement simple crud database functions. It's not completed.
